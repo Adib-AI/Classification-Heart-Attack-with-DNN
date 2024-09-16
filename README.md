@@ -22,3 +22,9 @@ Tahapan akan melewati
 3. Modeling menggunakan DNN dengan arsitektur kedalaman 4 Hidden Layer
 4. Evaluation dengan parameter akurasi, presisi, recall, f1 score berdasarkan hasil confusion matrix
 
+Komponen library yang digunakan
+1. pandas    : 2.0.0
+2. seaborn   : 0.13.2
+3. numpy     : 1.24.0
+4. matplotlib: 3.7.1
+5. tensorflow: 2.10.1
